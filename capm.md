@@ -1,19 +1,3 @@
----
-title: "ACTL1101 Assignment Part B"
-author: "Siri Sampalli"
-date: "2024 T2"
-output:
-  html_document:
-    df_print: paged
-  pdf_document: default
----
-
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-library(quantmod)
-library(ggplot2)
-library(tidyverse)
-```
 
 # CAPM Analysis
 
